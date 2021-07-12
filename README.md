@@ -4,6 +4,8 @@ Testing and lock-down are interventions that can combat the spread of an infecti
 
 Download [paper](http://boses.ece.illinois.edu/files/COVID19_testlockdown.pdf).
 
+[Code](/Notebooks/lockdown_cdc.ipynb)
+
 **Figure 1. Our compartmental model**
 ![Figure 1 Our compartmental model](Figures/supr.png)
 
