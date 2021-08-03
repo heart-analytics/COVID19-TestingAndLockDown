@@ -1,6 +1,5 @@
 ## Control Of Epidemic Spreads Via Testing And Lock-Down
 
-
 [Subhonmesh Bose](https://ece.illinois.edu/about/directory/faculty/boses),
 [Sebastian Souyris](https://giesbusiness.illinois.edu/profile/sebastian-souyris),
 [Ujjal Kumar Mukherjee](https://giesbusiness.illinois.edu/profile/ujjal-mukherjee),
@@ -8,6 +7,8 @@
 [Sridhar Seshadri](https://giesbusiness.illinois.edu/profile/sridhar-seshadri),
 [Albert C. England III](https://providers.osfhealthcare.org/provider/Albert+C.+England/1465363),
 [Yuqian Xu](https://sites.google.com/site/lillianyuqian/home)
+
+[HEART Analytics home page](https://heart-analytics.github.io/Home/)
 
 Testing and lock-down are interventions that can combat the spread of an infectious disease. Testing is a targeted instrument that permits the isolation of infectious individuals. Lock-down, on the other hand, is blunt and restricts the mobility of all people. In this paper, we present a compartmental epidemic model that accounts for the impact of lock-down and different kinds of testing, motivated by the nature of the ongoing COVID-19 outbreak. We consider the testing of symptomatic, contact traced, and randomly chosen asymptomatic populations. Using the model, we first characterize static mobility levels and testing requirements that can dampen the spread asymptotically. We then characterize a threshold-type optimal lock-down policy that minimizes the social impact of an epidemic, modeled via a sum of infection and lockdown costs. Our results are contextualized with realistic parameter values for COVID-19.
 
